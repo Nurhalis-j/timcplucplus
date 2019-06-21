@@ -5,5 +5,4 @@ Nama Kelompok :
 2. Rhendy Oentoko 17.83.0102
 3. Sri Ayu Ramadhona 17.83.0133
 
-=========================================
-Project ini masih dalam Proses Pengerjaan & Penyusunan
+*Project ini masih dalam Proses Pengerjaan & Penyusunan
