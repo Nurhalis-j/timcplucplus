@@ -5,7 +5,7 @@ Nama Kelompok :
 2. Rhendy Oentoko 17.83.0102
 3. Sri Ayu Ramadhona 17.83.0133
 
-Nama Project : Sensor Pintu Dengan Notifikasi Telegram
+Nama Project : Pendeteksi buka tutup pintu dengan bot telegram
 Alat : 
 - Arduino IDE 
 - NodeMCU
