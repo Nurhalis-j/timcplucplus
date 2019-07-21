@@ -5,10 +5,10 @@
 #include <UniversalTelegramBot.h> //include bot telegram
 #define BUTTON D1
 
-char ssid[] = "Wifi-Prabayar";                                   // nama wifi
-char password[] = "bukanwifigratismas";                          // password wifi
-#define BOTtoken "881663171:AAHnbbTVRqoP7XaF83_gtJvyXa53E0oApSE" // bottoken telegram
-String chatid = "-286303573";                                    // chatid bot telegram
+char ssid[] = "NAMA WIFI";                                   // nama wifi
+char password[] = "PASSWORD WIFI";                          // password wifi
+#define BOTtoken "TOKEN BOT TELEGRAM" // bottoken telegram
+String chatid = "CHAT ID BOT TELEGRAM";                                    // chatid bot telegram
 int switchState, buffer_ = 1;
 
 WiFiClientSecure client;
